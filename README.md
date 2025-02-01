@@ -38,30 +38,12 @@
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WassimGouia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WassimGouia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🎯 Featured Projects
-- [RoadMapsClone](https://github.com/WassimGouia/RoadMapsClone) - TypeScript-based roadmap platform
-- [project_hoobank](https://github.com/WassimGouia/project_hoobank) - Modern UI/UX website using React & Tailwind
-- [LocalLLM_langchain](https://github.com/WassimGouia/localLLM_langchain) - Local LLM Agent with Langchain integration
-
-## 🌟 Recent Activity
-<div align="center">
-  
-[![Wassim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WassimGouia&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ## 🤝 Connect With Me
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/saifeddine-issaouii/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:issaouisaifeddine22@gmail.com)
 
 </div>
 
